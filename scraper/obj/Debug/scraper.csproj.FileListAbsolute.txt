@@ -1,0 +1,11 @@
+C:\Users\moroc\source\repos\scraper\scraper\obj\Debug\scraper.csproj.AssemblyReference.cache
+C:\Users\moroc\source\repos\scraper\scraper\obj\Debug\scraper.csproj.CoreCompileInputs.cache
+C:\Users\moroc\source\repos\scraper\scraper\bin\Debug\scraper.exe.config
+C:\Users\moroc\source\repos\scraper\scraper\bin\Debug\scraper.exe
+C:\Users\moroc\source\repos\scraper\scraper\bin\Debug\scraper.pdb
+C:\Users\moroc\source\repos\scraper\scraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\moroc\source\repos\scraper\scraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\moroc\source\repos\scraper\scraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\moroc\source\repos\scraper\scraper\obj\Debug\scraper.csproj.CopyComplete
+C:\Users\moroc\source\repos\scraper\scraper\obj\Debug\scraper.exe
+C:\Users\moroc\source\repos\scraper\scraper\obj\Debug\scraper.pdb
