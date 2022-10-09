@@ -11,7 +11,7 @@ namespace scraper
 {
     class Program
     {
-        static void Main(string[] args)
+        static void scrape(string[] args)
         {
             majestic_millionTableAdapter majestic_Million = new majestic_millionTableAdapter();
             DataTable dt = majestic_Million.GetData();
@@ -65,7 +65,7 @@ namespace scraper
                 
                 string title = node;
                 wwwIndexTableAdapter index = new wwwIndexTableAdapter();
-                index.Insert(title, description, keywords);
+                index.Insert(title, description, keywords,html);
 
                 //var html = "http://" + row[0].ToString(); ;
 
